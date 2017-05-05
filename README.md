@@ -8,7 +8,7 @@ id correspondiente al hilo creado.
 gcc -pthread PracticaSoHilos.c -o PracticaSoHilos
 ```
 ```
-./PracticaSoHilos
+./PracticaSoHilos 4
 ```
 
 # Modificación del programa Riemann_Scheme.c
