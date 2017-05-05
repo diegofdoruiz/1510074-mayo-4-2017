@@ -8,6 +8,6 @@ id correspondiente al hilo creado.
 gcc -pthread PracticaSoHilos.c -o PracticaSoHilos
 ```
 ```
-`./PracticaSoHilos
+./PracticaSoHilos
 ```
 
