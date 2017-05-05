@@ -11,3 +11,14 @@ gcc -pthread PracticaSoHilos.c -o PracticaSoHilos
 ./PracticaSoHilos
 ```
 
+# Modificación del programa Riemann_Scheme.c
+Se completó el programa Riemann_Scheme.c el cual sirve para calcular de
+forma aproximada el área bajo la curva de una función en un intervalo
+específico
+
+```
+gcc -pthread Riemann_Scheme.c -o Riemann_Scheme
+```
+```
+./Riemann_Scheme
+```
